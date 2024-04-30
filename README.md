@@ -1,3 +1,8 @@
+<p >
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.11073626.svg"
+        height="20">
+</p>
+
 # GAN_Deconvolution
 
 
